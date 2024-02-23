@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Tesla Model 3",
+        "price": 46990.0,
+        "battery": "75 kWh",
+        "power": "350 cv",
+        "recharge": "11 kW AC, 250 kW DC",
+        "isFavorite": false,
+        "image": "https://github.com/walex36/mockCarsEletric/blob/master/assets/tesla_model_3.png?raw=true"
+    },
+    {
+        "id": 2,
+        "name": "Nissan LEAF Plus",
+        "price": 38285.0,
+        "battery": "40 kWh",
+        "power": "149 cv",
+        "recharge": "6.6 kW AC, 50 kW DC",
+        "isFavorite": true,
+        "image": "https://github.com/walex36/mockCarsEletric/blob/master/assets/nissan_leaf_plus.png?raw=true"
+    },
+    {
+        "id": 3,
+        "name": "Chevrolet Bolt EUV",
+        "price": 31000.0,
+        "battery": "66 kWh",
+        "power": "203 cv",
+        "recharge": "7.4 kW AC, 40 kW DC",
+        "isFavorite": false,
+        "image": "https://github.com/walex36/mockCarsEletric/blob/master/assets/chevrolet_bolt_euv.png?raw=true"
+    },
+    {
+        "id": 4,
+        "name": "Hyundai Kona Electric",
+        "price": 34250.0,
+        "battery": "64 kWh",
+        "power": "189 cv",
+        "recharge": "7.2 kW AC, 100 kW DC",
+        "isFavorite": false,
+        "image": "https://raw.githubusercontent.com/walex36/mockCarsEletric/master/assets/hyundai_kona_electric.avif"
+    },
+    {
+        "id": 5,
+        "name": "Kia Niro EV",
+        "price": 39750.0,
+        "battery": "64.8 kWh",
+        "power": "149 cv",
+        "recharge": "7.2 kW AC, 85 kW DC",
+        "isFavorite": false,
+        "image": "https://raw.githubusercontent.com/walex36/mockCarsEletric/master/assets/kia_niro_ev.avif"
+    }
+]
